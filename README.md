@@ -132,10 +132,6 @@ Features used from the API:
 GitHub: https://github.com/Shivamyv
 
 ## Live Demo
-
-Add your Vercel deployment link here after deployment.
-
-live link:
 https://weather-app-ten-flax-18.vercel.app/
 
 ## License
